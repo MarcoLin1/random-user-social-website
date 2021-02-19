@@ -1,0 +1,32 @@
+body {
+  font-family: "Yusei Magic", sans-serif;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 100%;
+  border-radius: 30%;
+  padding: 15px;
+}
+
+.card-footer {
+  background-color: rgba(241, 215, 49, 0.596);
+}
+
+.modal-header,
+.modal-body,
+.modal-footer {
+  background-color: rgba(204, 204, 204, 0.6);
+}
+
+.fa-globe-americas, .fa-user, .fa-envelope, .fa-venus-mars  {
+  color: rgba(231, 28, 21, 0.527);
+}
+
+.like-link, .home-link {
+  font-size: 20px;
+}
+
+.fa:hover {
+  cursor: pointer;
+}
